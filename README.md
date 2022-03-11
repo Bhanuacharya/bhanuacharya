@@ -6,7 +6,7 @@
 
 ## 🎓 I'm a CS student
 - 👀 I’m interested in Python, Node.js, React.js.
-- 🔭 I’m currently designing a news aggregator website.
+- 🔭 I’m currently working on small projects.
 - 🌱 I’m currently learning React.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
 <br/>
