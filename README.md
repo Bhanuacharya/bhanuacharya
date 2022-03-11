@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Bhanu
-![](https://visitor-badge.laobi.icu/badge?page_id=bhanuacharya.bhanuacharya [![Github](https://img.shields.io/github/followers/bhanuacharya?label=Followers&logo=Github)](https://github.com/Bhanuacharya)
+![](https://visitor-badge.laobi.icu/badge?page_id=bhanuacharya.bhanuacharya)[![Github](https://img.shields.io/github/followers/bhanuacharya?label=Followers&logo=Github)](https://github.com/Bhanuacharya)
 
 
 
