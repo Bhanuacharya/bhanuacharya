@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on small projects.
 - 🌱 I’m currently learning React.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
+- ⚡ Error is in my passion, 😄😄😄
 <br/>
   :email: Find me on:
 
@@ -17,7 +18,7 @@
  <a href="bhanuacharya4@gmail.com"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 <br/>
-- ⚡ Error is in my passion, 😄😄😄
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bhanuacharya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <a href="https://github.com/Bhanuacharya">
