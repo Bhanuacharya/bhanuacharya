@@ -5,9 +5,9 @@
 
 
 ## 🎓 I'm a CS student
-- 👀 I’m interested in Python, Node.js, React.js.
+- 👀 I’m interested in Web Devlopment with Blockchain.
 - 🔭 I’m currently working on small projects.
-- 🌱 I’m currently learning React.js. 
+- 🌱 I’m currently learning Blockchain,Solidity,Smart Contracts,Web3.js. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - ⚡ Error is in my passion, 😄😄😄
 <br/>
